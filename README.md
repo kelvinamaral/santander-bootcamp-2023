@@ -43,3 +43,7 @@ classDiagram
   User "1" *-- "N" News
 ```
 
+# Referências
+
+Projeto Original do Curso:
+https://github.com/falvojr/santander-dev-week-2023
